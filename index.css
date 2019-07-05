@@ -1,0 +1,27 @@
+.logoo{
+   width: 40px;
+   height: 40px;
+
+}
+.images{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding-right: 22px;
+    width: 70%;
+}
+
+.milieu{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    width: 50%;
+}
+.desbtn{
+    width: 26%;
+    margin-left: 20px;
+}
+
+.chaussure{
+margin-right: 20px;
+}
